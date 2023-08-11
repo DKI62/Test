@@ -1,0 +1,11 @@
+E:\Programs\VisualStudio\Projects\ExchngeApp\ExchngeApp\bin\Debug\ExchngeApp.exe.config
+E:\Programs\VisualStudio\Projects\ExchngeApp\ExchngeApp\bin\Debug\ExchngeApp.exe
+E:\Programs\VisualStudio\Projects\ExchngeApp\ExchngeApp\bin\Debug\ExchngeApp.pdb
+E:\Programs\VisualStudio\Projects\ExchngeApp\ExchngeApp\obj\Debug\ExchngeApp.csproj.AssemblyReference.cache
+E:\Programs\VisualStudio\Projects\ExchngeApp\ExchngeApp\obj\Debug\ExchngeApp.csproj.SuggestedBindingRedirects.cache
+E:\Programs\VisualStudio\Projects\ExchngeApp\ExchngeApp\obj\Debug\ExchngeApp.Form1.resources
+E:\Programs\VisualStudio\Projects\ExchngeApp\ExchngeApp\obj\Debug\ExchngeApp.Properties.Resources.resources
+E:\Programs\VisualStudio\Projects\ExchngeApp\ExchngeApp\obj\Debug\ExchngeApp.csproj.GenerateResource.cache
+E:\Programs\VisualStudio\Projects\ExchngeApp\ExchngeApp\obj\Debug\ExchngeApp.csproj.CoreCompileInputs.cache
+E:\Programs\VisualStudio\Projects\ExchngeApp\ExchngeApp\obj\Debug\ExchngeApp.exe
+E:\Programs\VisualStudio\Projects\ExchngeApp\ExchngeApp\obj\Debug\ExchngeApp.pdb
